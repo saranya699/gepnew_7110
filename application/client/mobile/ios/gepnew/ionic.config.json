@@ -1,0 +1,7 @@
+{
+  "name": "gepnew",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
